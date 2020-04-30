@@ -18,3 +18,5 @@
 USE-CASE
 https://docs.google.com/spreadsheets/d/1MLrJJQB8l15bM09ovXbHUBl76BSYInsxJTGn3thfUDw/edit#gid=0
 
+MOCKUPS
+https://www.figma.com/file/pDTHhK7kiGIGbxWqsFHSAo/Landing?node-id=0%3A1
